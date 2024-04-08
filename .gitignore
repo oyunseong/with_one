@@ -510,3 +510,5 @@ obj/
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,androidstudio,android,kotlin,xcode,swift,flutter,dart,jetbrains
+/ios/Podfile
+/macos/Podfile
